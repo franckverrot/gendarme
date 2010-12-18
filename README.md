@@ -1,6 +1,6 @@
 # Gendarme
 
-## Introductio
+## Introduction
 
 Gendarme will bring order to chaos (well... that's the role of Gendarme ma bonne Dame...).
 Gendarme checks for preconditions and postrelations on the methods you want it to monitor.
