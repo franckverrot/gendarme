@@ -15,6 +15,7 @@ Gem::Specification.new do |s|
 
   s.rubyforge_project = "gendarme"
 
+  s.add_dependency 'rake'
   s.add_dependency 'activesupport'
   s.add_dependency 'i18n'
 
