@@ -1,4 +1,4 @@
-# Gendarme
+# Gendarme [![Travis](http://travis-ci.org/cesario/gendarme.png)](http://travis-ci.org/cesario/gendarme)
 
 ## Introduction
 
